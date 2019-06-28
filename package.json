@@ -33,8 +33,8 @@
     "ir-clone": "^1.0.2",
     "jshint": "^2.9.1",
     "steal": "^2.0.0",
-    "steal-qunit": "^1.0.1",
-    "testee": "^0.7.0"
+    "steal-qunit": "^2.0.0",
+    "testee": "^0.9.1"
   },
   "license": "MIT",
   "dependencies": {
